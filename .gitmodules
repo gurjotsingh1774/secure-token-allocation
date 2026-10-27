@@ -1,0 +1,6 @@
+[submodule "secure-token-allocation-backend"]
+	path = secure-token-allocation-backend
+	url = https://github.com/gurjotsingh1774/secure-token-allocation-backend.git
+[submodule "secure-token-allocation-frontend"]
+	path = secure-token-allocation-frontend
+	url = https://github.com/gurjotsingh1774/secure-token-allocation-frontend.git
